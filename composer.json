@@ -1,0 +1,19 @@
+{
+    "name": "endl13593/communication-microservices",
+    "description": "Package For Communication Microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endl13593\\CommunicationMicroservices\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Nunes",
+            "email": "nunes.eduardo1993@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
